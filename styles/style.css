@@ -119,7 +119,7 @@ padding-bottom: 5px;
   border:1px solid #fff;
   display: block;
   margin: auto 5px auto auto;
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .search-form__label input[type="checkbox"]:checked + span {

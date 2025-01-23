@@ -64,7 +64,7 @@ ol {
 .content {
   display: grid ;
  grid-template-columns: 2fr 1fr;
-  margin-top: 133px;
+  margin: auto;
 }
 
 .result {
